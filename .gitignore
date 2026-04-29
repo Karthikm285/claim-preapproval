@@ -27,4 +27,4 @@ models/
 .vscode/
 
 # Logs
-*.log
+*.log.claude/
