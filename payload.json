@@ -1,0 +1,17 @@
+{
+  "enable_llm": true,
+  "claim": {
+    "claim_id": "CLM_LLM_TEST",
+    "state": "GA",
+    "plan_type": "PPO",
+    "provider_specialty": "Ortho",
+    "place_of_service": "Office",
+    "claim_amount": 2500,
+    "out_of_network": false,
+    "inpatient_flag": false,
+    "prior_auth_required": false,
+    "review_risk_score": 0.2,
+    "clinical_notes": "member requests prior authorization for medication",
+    "call_center_notes": "follow up on oncology rx"
+  }
+}
